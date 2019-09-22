@@ -1,0 +1,216 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+WindowsApp1
+</name>
+</assembly>
+<members>
+<member name="T:WindowsApp1.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:WindowsApp1.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:WindowsApp1.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:WindowsApp1.My.Resources.Resources.donut">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApp1.My.Resources.Resources.icons8_chicken_box_128">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApp1.My.Resources.Resources.icons8_close_window_24_1_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApp1.My.Resources.Resources.icons8_coffee_64">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApp1.My.Resources.Resources.icons8_crab_64">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApp1.My.Resources.Resources.icons8_filled_circle_20">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApp1.My.Resources.Resources.icons8_food_20">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApp1.My.Resources.Resources.icons8_food_30">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApp1.My.Resources.Resources.icons8_food_30_1_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApp1.My.Resources.Resources.icons8_food_30_2_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApp1.My.Resources.Resources.icons8_food_48">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApp1.My.Resources.Resources.icons8_frankfurter_64">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApp1.My.Resources.Resources.icons8_hamburger_64">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApp1.My.Resources.Resources.icons8_ice_cream_in_waffle_64">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApp1.My.Resources.Resources.icons8_kawaii_cupcake_30">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApp1.My.Resources.Resources.icons8_kawaii_ice_cream_30">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApp1.My.Resources.Resources.icons8_kfc_chicken_128">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApp1.My.Resources.Resources.icons8_maximize_window_24_1_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApp1.My.Resources.Resources.icons8_milkshake_64">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApp1.My.Resources.Resources.icons8_minimize_window_24_1_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApp1.My.Resources.Resources.icons8_orange_juice_64">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApp1.My.Resources.Resources.icons8_people_30">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApp1.My.Resources.Resources.icons8_people_30_1_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApp1.My.Resources.Resources.icons8_people_30_2_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApp1.My.Resources.Resources.icons8_pizza_64">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApp1.My.Resources.Resources.icons8_rice_bowl_128">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApp1.My.Resources.Resources.icons8_rice_bowl_1281">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApp1.My.Resources.Resources.icons8_rice_bowl_64">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApp1.My.Resources.Resources.icons8_shopping_cart_30">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApp1.My.Resources.Resources.icons8_soda_64">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApp1.My.Resources.Resources.icons8_strawberry_64">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApp1.My.Resources.Resources.icons8_taco_64">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApp1.My.Resources.Resources.icons8_takeaway_hot_drink_30">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApp1.My.Resources.Resources.icons8_tea_64">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApp1.My.Resources.Resources.icons8_thanksgiving_turkey_128">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApp1.My.Resources.Resources.icons8_water_glass_64">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApp1.My.Resources.Resources.icons8_wine_glass_64">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApp1.My.Resources.Resources.icons8_wrap_64">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>
